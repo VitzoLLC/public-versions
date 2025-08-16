@@ -1,0 +1,16 @@
+{
+"Version":"2.4.5939",
+"Url": "https://get.clipclip.com?p=direct",
+"Information": "NOTE: Please save your latest clips before updating the ClipClip app to avoid losing them.",
+"Description":
+{
+"es": "Visite la página web <a href='https://clipclip.com/whats-new'>¿Qué hay de nuevo?</a> para ver las funciones que se agregaron a esta versión de ClipClip y ver los requisitos previos a la actualización.",
+"fr": "Veuillez visiter la page Web <a href='https://clipclip.com/whats-new'>Quoi de neuf?</a> pour voir les fonctionnalités ajoutées à cette version de ClipClip et vérifier les conditions préalables à la mise à niveau.",
+"nl": "Bezoek de webpagina <a href='https://clipclip.com/whats-new'>What's New?</a> om de functies te bekijken die aan deze ClipClip-versie zijn toegevoegd en om de vereisten voor de upgrade te bekijken.",
+"pt": "Visite a página da web <a href='https://clipclip.com/whats-new'>Novidades?</a> para ver os recursos adicionados a esta versão do ClipClip e verificar os requisitos de pré-atualização.",
+"en": "Please visit <a href='https://clipclip.com/whats-new'>What's New?</a> web page to view features that are added to this ClipClip version and check out pre-upgrade requirements.",
+"ru": "Посетите веб-страницу <a href='https://clipclip.com/whats-new'>Что нового?</a> чтобы просмотреть функции, добавленные в эту версию ClipClip, и ознакомиться с требованиями перед обновлением.",
+"uk": "Відвідайте веб-сторінку <a href='https://clipclip.com/whats-new'>Що нового?</a> щоб переглянути функції, додані до цієї версії ClipClip, і ознайомитися з вимогами до оновлення."
+},
+"FFMpegUrl":"https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip"
+}
