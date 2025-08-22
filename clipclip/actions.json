@@ -1,0 +1,545 @@
+﻿{
+  "Version": "2.2.4534",
+  "Actions": [
+    {
+      "AssemblyName": "TextCapitalizeFirstLetterInEachWord",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/1.zip"
+    },
+    {
+      "AssemblyName": "TextCharacterCount",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/10.zip"
+    },
+    {
+      "AssemblyName": "APAFormatter",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/100.zip"
+    },
+    {
+      "AssemblyName": "ChicagoFormatter",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/101.zip"
+    },
+    {
+      "AssemblyName": "ReplaceSpacesByHyphence",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/102.zip"
+    },
+    {
+      "AssemblyName": "ReplaceHyphenceBySpaces",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/103.zip"
+    },
+    {
+      "AssemblyName": "ReplaceUnderscoresBySpaces",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/104.zip"
+    },
+    {
+      "AssemblyName": "ReplaceSpacesByUnderscores",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/105.zip"
+    },
+    {
+      "AssemblyName": "RandomGenerator",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/106.zip"
+    },
+    {
+      "AssemblyName": "TextExtractTextOnlineOcr",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/107.zip"
+    },
+    {
+      "AssemblyName": "OpenInBrowserFirefox",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/113.zip"
+    },
+    {
+      "AssemblyName": "OpenInBrowserGoogle Chrome",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/114.zip"
+    },
+    {
+      "AssemblyName": "OpenInBrowserInternet Explorer",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/115.zip"
+    },
+    {
+      "AssemblyName": "OpenInBrowserMicrosoft Edge",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/116.zip"
+    },
+    {
+      "AssemblyName": "TextConvertToBase64",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/12.zip"
+    },
+    {
+      "AssemblyName": "ConvertFromBase64",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/13.zip"
+    },
+    {
+      "AssemblyName": "TextToMD5Uppercase",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/14.zip"
+    },
+    {
+      "AssemblyName": "TextToMD5Lowercase",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/15.zip"
+    },
+    {
+      "AssemblyName": "TextUrlEncode",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/16.zip"
+    },
+    {
+      "AssemblyName": "TextUrlDecode",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/17.zip"
+    },
+    {
+      "AssemblyName": "TextHtmlEncode",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/18.zip"
+    },
+    {
+      "AssemblyName": "TextHtmlDecode",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/19.zip"
+    },
+    {
+      "AssemblyName": "TextConvertToUppercase",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/2.zip"
+    },
+    {
+      "AssemblyName": "TextSearchGoogle",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/20.zip"
+    },
+    {
+      "AssemblyName": "TextSearchBing",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/21.zip"
+    },
+    {
+      "AssemblyName": "TextSearchGoogle Maps",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/22.zip"
+    },
+    {
+      "AssemblyName": "TextSearchGoogle Scholar",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/23.zip"
+    },
+    {
+      "AssemblyName": "TextSearchGoogle Images",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/24.zip"
+    },
+    {
+      "AssemblyName": "TextSearchAmazon",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/25.zip"
+    },
+    {
+      "AssemblyName": "TextSearchIMDB",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/26.zip"
+    },
+    {
+      "AssemblyName": "TextSearchYoutube",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/27.zip"
+    },
+    {
+      "AssemblyName": "TextSearchPubMed",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/28.zip"
+    },
+    {
+      "AssemblyName": "TextSearchWikipedia",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/29.zip"
+    },
+    {
+      "AssemblyName": "TextConvertToLowercase",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/3.zip"
+    },
+    {
+      "AssemblyName": "TextSearchCamelCamelCamel",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/30.zip"
+    },
+    {
+      "AssemblyName": "TextSearchDictionary.com",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/31.zip"
+    },
+    {
+      "AssemblyName": "TextSearchBooking.com",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/32.zip"
+    },
+    {
+      "AssemblyName": "TextSearchDuckDuckGo",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/33.zip"
+    },
+    {
+      "AssemblyName": "TextSearcheBay",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/34.zip"
+    },
+    {
+      "AssemblyName": "TextSearchGitHub",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/35.zip"
+    },
+    {
+      "AssemblyName": "TextSearchNetflix",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/36.zip"
+    },
+    {
+      "AssemblyName": "TextSearchFacebook",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/37.zip"
+    },
+    {
+      "AssemblyName": "TextSearchImgur",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/38.zip"
+    },
+    {
+      "AssemblyName": "TextSearchInstagram",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/39.zip"
+    },
+    {
+      "AssemblyName": "TextSentenceCase",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/4.zip"
+    },
+    {
+      "AssemblyName": "TextSearchPinterest",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/40.zip"
+    },
+    {
+      "AssemblyName": "TextSearchQuora",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/41.zip"
+    },
+    {
+      "AssemblyName": "TextSearchReddit",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/42.zip"
+    },
+    {
+      "AssemblyName": "TextSearchRotten Tomatoes",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/43.zip"
+    },
+    {
+      "AssemblyName": "TextSearchStack Overflow",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/44.zip"
+    },
+    {
+      "AssemblyName": "TextSearchTwitch",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/45.zip"
+    },
+    {
+      "AssemblyName": "TextSearchVimeo",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/46.zip"
+    },
+    {
+      "AssemblyName": "TextSearchVK",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/47.zip"
+    },
+    {
+      "AssemblyName": "TextSearchYahoo",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/48.zip"
+    },
+    {
+      "AssemblyName": "TextSearchYandex",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/49.zip"
+    },
+    {
+      "AssemblyName": "TextToReverse",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/5.zip"
+    },
+    {
+      "AssemblyName": "TextSearchYelp",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/50.zip"
+    },
+    {
+      "AssemblyName": "TextSearchLinkedIn",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/51.zip"
+    },
+    {
+      "AssemblyName": "TextSearchBaidu",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/52.zip"
+    },
+    {
+      "AssemblyName": "TextSearchCraigslist",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/53.zip"
+    },
+    {
+      "AssemblyName": "TextTwittertwitter.com",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/54.zip"
+    },
+    {
+      "AssemblyName": "CreateCopyMenuActionTextTranslateGoogle",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/55.zip"
+    },
+    {
+      "AssemblyName": "CreateCopyMenuActionTextTranslateBing",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/56.zip"
+    },
+    {
+      "AssemblyName": "CreateCopyMenuActionTextTranslateDeepL",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/57.zip"
+    },
+    {
+      "AssemblyName": "TextSendToPastebinAnonymous",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/58.zip"
+    },
+    {
+      "AssemblyName": "TextSendToImgurAnonymous",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/59.zip"
+    },
+    {
+      "AssemblyName": "TextToSortedList",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/6.zip"
+    },
+    {
+      "AssemblyName": "TextCreateShortUrlRebrandly",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/60.zip"
+    },
+    {
+      "AssemblyName": "WhoisSearchDomaintoolsDomaintools",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/62.zip"
+    },
+    {
+      "AssemblyName": "WhoisSearchEpikEpik",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/63.zip"
+    },
+    {
+      "AssemblyName": "SendEmail",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/64.zip"
+    },
+    {
+      "AssemblyName": "CalculateMathematicalExpression",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/65.zip"
+    },
+    {
+      "AssemblyName": "ImageConvertToGrayscale",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/66.zip"
+    },
+    {
+      "AssemblyName": "ImageConvertToDarkenImage",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/67.zip"
+    },
+    {
+      "AssemblyName": "ImageConvertToLightenImage",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/68.zip"
+    },
+    {
+      "AssemblyName": "ImageFlipHorizontal",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/69.zip"
+    },
+    {
+      "AssemblyName": "TextToShuffledList",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/7.zip"
+    },
+    {
+      "AssemblyName": "ImageFlipVertical",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/70.zip"
+    },
+    {
+      "AssemblyName": "ImageRotateRight90",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/71.zip"
+    },
+    {
+      "AssemblyName": "ImageRotate180",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/72.zip"
+    },
+    {
+      "AssemblyName": "ImageRotateLeft90",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/73.zip"
+    },
+    {
+      "AssemblyName": "ImageScale75",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/74.zip"
+    },
+    {
+      "AssemblyName": "ImageScale50",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/75.zip"
+    },
+    {
+      "AssemblyName": "ImageScale25",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/76.zip"
+    },
+    {
+      "AssemblyName": "ImageScale10",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/77.zip"
+    },
+    {
+      "AssemblyName": "ImageResize2Width1920",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/78.zip"
+    },
+    {
+      "AssemblyName": "ImageResize2Width800",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/79.zip"
+    },
+    {
+      "AssemblyName": "RemoveAllWhitespaces",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/8.zip"
+    },
+    {
+      "AssemblyName": "ImageResize2Width400",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/80.zip"
+    },
+    {
+      "AssemblyName": "ImageResize2Width200",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/81.zip"
+    },
+    {
+      "AssemblyName": "ImageResize2Width100",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/82.zip"
+    },
+    {
+      "AssemblyName": "ImageResize2Height1080",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/83.zip"
+    },
+    {
+      "AssemblyName": "ImageResize2Height800",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/84.zip"
+    },
+    {
+      "AssemblyName": "ImageResize2Height400",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/85.zip"
+    },
+    {
+      "AssemblyName": "ImageResize2Height200",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/86.zip"
+    },
+    {
+      "AssemblyName": "ImageResize2Height100",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/87.zip"
+    },
+    {
+      "AssemblyName": "ImageResize2MarginPercent10",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/88.zip"
+    },
+    {
+      "AssemblyName": "ImageResize2MarginPercent20",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/89.zip"
+    },
+    {
+      "AssemblyName": "RemoveAllUnderscores",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/9.zip"
+    },
+    {
+      "AssemblyName": "ImageResize2MarginPx10",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/90.zip"
+    },
+    {
+      "AssemblyName": "ImageResize2MarginPx20",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/91.zip"
+    },
+    {
+      "AssemblyName": "ImageResize2MarginPx50",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/92.zip"
+    },
+    {
+      "AssemblyName": "ImageBlurring",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/94.zip"
+    },
+    {
+      "AssemblyName": "TextRemoveExtraWhitespaces",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/95.zip"
+    },
+    {
+      "AssemblyName": "TextReplaceDoubleQuotesWithSingleQuotes",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/96.zip"
+    },
+    {
+      "AssemblyName": "TextReplaceSingleQuotesWithDoubleQuotes",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/97.zip"
+    },
+    {
+      "AssemblyName": "TextWordCount",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/98.zip"
+    },
+    {
+      "AssemblyName": "APFormatter",
+      "Version": "2.2.4534",
+      "UpdateURL": "https://localhost:44348/actions/99.zip"
+    }
+  ]
+}
