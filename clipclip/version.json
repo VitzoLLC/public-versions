@@ -1,5 +1,5 @@
 {
-"Version":"2.4.5939",
+"Version":"2.4.5985",
 "Url": "https://get.clipclip.com?p=direct",
 "Information": "NOTE: Please save your latest clips before updating the ClipClip app to avoid losing them.",
 "Description":
@@ -14,3 +14,4 @@
 },
 "FFMpegUrl":"https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip"
 }
+
