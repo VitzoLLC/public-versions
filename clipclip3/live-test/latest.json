@@ -1,18 +1,18 @@
 {
-  "version": "3.0.104",
-  "pub_date": "2026-11-18T02:41:01.331Z",
+  "version": "3.0.107",
+  "pub_date": "2026-11-18T03:19:08.409Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRFZHa0YrRXZibmFCY2xFREdodE5OS1k2TW1SVU5ZMHJRaFhDbUtVNDlVTEM1Ums4WGJPK0lnQjlSZjVwcU52V2JmbWpuM1FLbjk3ek5XV3JrZE4xUHNDT2tDMDNvQ2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTY5MzY5CWZpbGU6Q2xpcENsaXAuYXBwLnRhci5negl2ZXJzaW9uOjMuMC4xMDQKS3VGSVpHQThKRnVMaEVrVitVNEhmc1VDVTBiWkh1TU0xSmdwb1FMWlFaR05HNlVZV2tVMkVPbHRSdXFjU2NIcFFjbTU5Skc1STdLYS82QjIxY2dUQ3c9PQo=",
-      "url": "https://github.com/VitzoLLC/public-versions/releases/download/clipclip3-v3.0.104/ClipClip.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRFZHa0YrRXZiblpheE41Y1EyK0F3K0lodGtvK05DN3drNjdqMVNBd2dFSUsrT2RLbEw5RjVuM2t5eWxUakRGdEpBdlJ6U2hXUGZwMjZCUHRMSkQyZmtOa0taMGdNbXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTcxMjQxCWZpbGU6Q2xpcENsaXAuYXBwLnRhci5negl2ZXJzaW9uOjMuMC4xMDcKUldNeFc0UGdEeUdzZDJ3S3R2b01Ydkl1MGpRMTZFRXhJZk4rYUtrM3hPYy9RQzhyWEhjNUgrVU1HaFczSGwxMHFOUnkramFsUlJkaG5PclFBQldlQ3c9PQo=",
+      "url": "https://github.com/VitzoLLC/public-versions/releases/download/clipclip3-v3.0.107/ClipClip.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRFZHa0YrRXZibmFCY2xFREdodE5OS1k2TW1SVU5ZMHJRaFhDbUtVNDlVTEM1Ums4WGJPK0lnQjlSZjVwcU52V2JmbWpuM1FLbjk3ek5XV3JrZE4xUHNDT2tDMDNvQ2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTY5MzY5CWZpbGU6Q2xpcENsaXAuYXBwLnRhci5negl2ZXJzaW9uOjMuMC4xMDQKS3VGSVpHQThKRnVMaEVrVitVNEhmc1VDVTBiWkh1TU0xSmdwb1FMWlFaR05HNlVZV2tVMkVPbHRSdXFjU2NIcFFjbTU5Skc1STdLYS82QjIxY2dUQ3c9PQo=",
-      "url": "https://github.com/VitzoLLC/public-versions/releases/download/clipclip3-v3.0.104/ClipClip.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRFZHa0YrRXZiblpheE41Y1EyK0F3K0lodGtvK05DN3drNjdqMVNBd2dFSUsrT2RLbEw5RjVuM2t5eWxUakRGdEpBdlJ6U2hXUGZwMjZCUHRMSkQyZmtOa0taMGdNbXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTcxMjQxCWZpbGU6Q2xpcENsaXAuYXBwLnRhci5negl2ZXJzaW9uOjMuMC4xMDcKUldNeFc0UGdEeUdzZDJ3S3R2b01Ydkl1MGpRMTZFRXhJZk4rYUtrM3hPYy9RQzhyWEhjNUgrVU1HaFczSGwxMHFOUnkramFsUlJkaG5PclFBQldlQ3c9PQo=",
+      "url": "https://github.com/VitzoLLC/public-versions/releases/download/clipclip3-v3.0.107/ClipClip.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRFZHa0YrRXZibmR5OVJMMmd2NG5wOUc0T1hERU1OUjVWdmtwWFBxZ2dvZW5ZZmoxSy9OK09TZndHcys4VUN2L0hhTVE1aGVxVGM1eDMreCtMd3o0SEZ3VWVieHRSSmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTY5NTM1CWZpbGU6Q2xpcENsaXBfMy4wLjEwNF94NjQtc2V0dXAuZXhlCXZlcnNpb246My4wLjEwNAo3SmlRYm9UNHZDcFV1b1d3OGpqVmZaMkVsNXpTOGhMa08zWGdzcERXWk1rQTcwNmdjQm8rRkI3d3Mvd3pCbjVxRm5CYzJTQjdkaTMwZHpNRTgyYUFBQT09Cg==",
-      "url": "https://github.com/VitzoLLC/public-versions/releases/download/clipclip3-v3.0.104/ClipClip_3.0.104_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRFZHa0YrRXZiblZsWVRTMEorTE9jcmwwWnd1cFM3T3lLRHlUOXNaZzE1UHpva3ZHTEd1cGdWMWgyR3NpNmNRYTZmUmErY0ZISVlGUG9HZmU5aXFwTWJrR0ZLTjdHY2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTcxODIzCWZpbGU6Q2xpcENsaXBfMy4wLjEwN194NjQtc2V0dXAuZXhlCXZlcnNpb246My4wLjEwNwp4R1VMQmNGSm03NktHQzVjNFpkckovdGVOV0ZmaFJzQmFuZ0NYV3c3enNwMFBXOGN0TFZPbzlKeHB5TG9KTERGSUs4TFIyZVRjWW1FTkVBVWxRdGxBUT09Cg==",
+      "url": "https://github.com/VitzoLLC/public-versions/releases/download/clipclip3-v3.0.107/ClipClip_3.0.107_x64-setup.exe"
     }
   }
 }
